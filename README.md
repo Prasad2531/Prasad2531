@@ -18,8 +18,6 @@
       src="https://komarev.com/ghpvc/?username=Prasad2531&label=Profile%20views&color=0e75b6&style=flat"
       alt="Prasad2531" /> </p>
 
-  <div width="100%" align="center" ><img align="center" height='300' width='400' src='https://writing-systems.com/wp-content/uploads/2019/08/programming.gif'></img></div>
-
   <h2 align="left">Languages and Tools:</h2>
   <p align="left">
 
@@ -59,7 +57,6 @@
         alt="tailwindcss" /> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img
         src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> </a>
-<br>
 <a href="https://www.mysql.com/" target="_blank"> <img
         src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=black"
         alt="mysql" /> </a>
@@ -69,6 +66,9 @@
 <a href="https://www.mongodb.com/" target="_blank"> <img
         src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
         alt="mongodb" /> </a>
+<a href="https://https://angular.io/" target="_blank"> <img
+        src="https://img.shields.io/badge/Angular-CB3837?style=for-the-badge&logo=angular&logoColor=white"
+        alt="angular" /> </a>
    <br>
 
    <br>
