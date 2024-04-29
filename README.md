@@ -2,7 +2,7 @@
 <html lang="en">
 
 <body>
-  <h1 align="center">Hello there 👋, I'm Prasad</h1>
+  <h1 align="center">Hello there <img height=40px src="https://github.com/MartinHeinz/MartinHeinz/blob/master/wave.gif"/> - I'm Prasad</h1>
   <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+10&weight=500&size=25&pause=1000&random=false&width=435&lines=🧑‍💻Computer+Science+Engineer;🧑‍💻Software+Developer" alt="Typing SVG" /></a></h3>
 <br>
 
