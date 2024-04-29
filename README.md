@@ -2,16 +2,14 @@
 <html lang="en">
 
 <body>
-  <h1 align="center">Hi 👋, I'm Prasad
-  </h1>
-  <h3 align="center"> </h3>
-  <h3 align="center">Computer Science Engineer💻</h3>
-
+  <h1 align="center">Hello there 👋, I'm Prasad</h1>
+  <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+10&weight=500&size=25&pause=1000&random=false&width=435&lines=🧑‍💻Computer+Science+Engineer;🧑‍💻Software+Developer" alt="Typing SVG" /></a></h3>
 <br>
 
-- 💬 Ask me about **Java SpringBoot Angular**
+
+- 💬 Currently working on Backend Development using Java
 - 📫 Reach me at **prasadsp2001@gmail.com**
-- 🎓 <a href="https://pict.edu/#"> Pune Institute of Computer Technology</a> 
+- 🎓 Pune Institute of Computer Technology</a> 
 
 <br>
   <p align="left"> <img
@@ -63,6 +61,7 @@
 <a href="https://www.postgresql.org/" target="_blank"> <img
         src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"
         alt="postgressql" /> </a>
+        
 <a href="https://www.mongodb.com/" target="_blank"> <img
         src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
         alt="mongodb" /> </a>
