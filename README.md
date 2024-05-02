@@ -91,6 +91,10 @@
  </table>
   <img src="[![Prasad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Prasad2531)](https://github.com/Prasad2531/github-readme-activity-graph)" />
 </p>
+<h3 align="center">⭐ Connect with me ⭐</h3>
+<p align="center"> 
+<a href="https://www.linkedin.com/in/prasad-patare-44a719199/" target="blank"><img align="center" src="https://img.icons8.com/color/50/000000/linkedin.png" height="50" width="50" /></a>
+
 </body>
 
 </html>
