@@ -7,9 +7,9 @@
 <br>
 
 
-- 💬 Currently working on Backend Development using Java
+- 💬 Currently taking courses in the domain of Machine Learning, Web Technologies and Algorithms!
 - 📫 Reach me at **prasadsp2001@gmail.com**
-- 🎓 Pune Institute of Computer Technology</a> 
+- 🎓 University of Southern California</a> 
 
 <br>
   <p align="left"> <img
